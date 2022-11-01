@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## First Capstone Project
+## Awesome books: plain JavaScript with objects
 
-> This is a project to implement an online website for a conference.
+> This is a project to implement a book shelve.
 
 ## Built With
 
@@ -22,11 +22,11 @@ Web Browser (Google Chrome recommended)
 
 ## Live Demo
 
-[Live Demo Link](https://peteugwu.github.io/html-Capstone/)
+[Live Demo Link]()
 
 ## How to Run
 
-[linkToSource](https://github.com/PeteUgwu/First-Capstone-Project/tree/main)
+[linkToSource](https://github.com/PeteUgwu/Awesome-books)
 
 To run the project do the following:
 
@@ -56,8 +56,6 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - partners/micronauts
-
-- Original design idea by Cindy Shin in Behance.
 
 ## 📝 License
 
