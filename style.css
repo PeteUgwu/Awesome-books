@@ -5,6 +5,67 @@ body {
   padding: 0;
 }
 
+.wrap-all {
+  border: 3px solid;
+  height: auto;
+  padding: 1rem 0;
+}
+
+.nav-bar {
+  width: 95%;
+  height: 2rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: lightgray;
+  border: 3px solid;
+  margin: auto;
+}
+
+.nav-list {
+  width: 40%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.nav-list li {
+  list-style: none;
+  color: blue;
+  cursor: pointer;
+}
+
+.vr {
+  border-right: 2px solid black;
+  height: 1.5rem;
+}
+
+.contact ul li {
+  text-align: left;
+}
+
+.nav-list li:hover {
+  color: aqua;
+}
+
+.date-time {
+  display: flex;
+  justify-content: flex-end;
+  width: 98%;
+}
+
+h2 {
+  width: 60%;
+  padding-left: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
 .wrap {
   text-align: center;
   width: 100%;
@@ -71,4 +132,21 @@ button {
 
 .form input {
   width: 50%;
+}
+
+.contact {
+  width: 50%;
+  margin: auto;
+}
+
+.contact p {
+  text-align: left;
+}
+
+.copy-right {
+  width: 90%;
+  border: 2px solid;
+  margin: 3rem auto 0;
+  text-align: left;
+  padding-left: 1rem;
 }
